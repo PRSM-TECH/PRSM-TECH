@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Ravi  
+🚀 AI Ethics & Governance Consultant | Oracle ERP & AI Automation  
 
-<!--
-**PRSM-TECH/PRSM-TECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about **Fair & Responsible AI Development**  
+🔹 Exploring **AI Governance, Bias Mitigation & Compliance Automation**  
+🔹 Building **SoulMind AI** – AI-driven ethical decision-making framework  
 
-Here are some ideas to get you started:
+💻 **My AI Projects:**  
+📌 [Hiring Bias Analysis](https://github.com/PRSM-TECH/Hiring-Bias-Project)  
+📌 [Loan Approval Bias Mitigation](https://github.com/PRSM-TECH/Loan-Approval-Bias)  
+📌 [Healthcare AI Bias Evaluation](https://github.com/PRSM-TECH/Healthcare-Bias)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📩 **Connect with me:**  
+🌐 mail : livelikelotusleaf@gmail.com  
+📌 LinkedIn: www.linkedin.com/in/ravi-sai-manohar-07328740
