@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ravi  
+# 👋 Hi, I'm Ravi Sai Manohar
 🚀 AI Ethics & Governance Consultant | Oracle ERP & AI Automation  
 
 🔹 Passionate about **Fair & Responsible AI Development**  
