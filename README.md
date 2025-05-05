@@ -1,15 +1,25 @@
 # 👋 Hi, I'm Ravi Sai Manohar
-🚀 AI Ethics & Governance Consultant | Oracle ERP & AI Automation  
 
-🔹 Passionate about **Fair & Responsible AI Development**  
-🔹 Exploring **AI Governance, Bias Mitigation & Compliance Automation**  
-🔹 Building **SoulMind AI** – AI-driven ethical decision-making framework  
+🚀 AI Ethics, Governance & Automation Specialist | Ex-Oracle ERP Consultant
 
-💻 **My AI Projects:**  
-📌 [Hiring Bias Analysis](https://github.com/PRSM-TECH/Hiring-Bias-Project)  
-📌 [Loan Approval Bias Mitigation](https://github.com/PRSM-TECH/Loan-Approval-Bias)  
-📌 [Healthcare AI Bias Evaluation](https://github.com/PRSM-TECH/Healthcare-Bias)  
+🔹 Passionate about building **Fair, Transparent & Responsible AI Systems**
+🔹 Exploring **Bias Mitigation, Explainability, AI Auditing & Compliance Automation**
 
-📩 **Connect with me:**  
-🌐 mail : livelikelotusleaf@gmail.com  
-📌 LinkedIn: www.linkedin.com/in/ravi-sai-manohar-07328740
+---
+
+💻 **Featured Project Portfolio:**
+✅ [SMF-SMAI Core Projects (Fairness · Explainability · Governance · RPA · Agents)](https://github.com/PRSM-TECH/smf-smai-core-projects)
+
+📁 Key Categories:
+
+* AI Fairness (Gender, Race, Age Bias Detection & Mitigation)
+* Explainability (SHAP, LIME Visualizations)
+* AI Governance (Policy Compliance, Audit Frameworks)
+* Automation (Python & No-Code Ethical Bots)
+* Multi-Agent Ethical Simulations (Karma-based Allocation)
+
+---
+
+📩 **Let’s Connect:**
+🌐 Email: [livelikelotusleaf@gmail.com](mailto:livelikelotusleaf@gmail.com)
+🔗 LinkedIn: [ravi-sai-manohar](https://www.linkedin.com/in/ravi-sai-manohar-07328740)
