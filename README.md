@@ -1,12 +1,16 @@
-# 👋Welcome! I’m Ravi Sai Manohar, an AI Ethics practitioner and founder of SoulMindFusion (SMF) – a mission to align AI systems with ethical clarity and conscious decision-making.
+Welcome! I’m **Ravi Sai Manohar** – an **AI Ethics & Governance practitioner** transitioning from 16+ years of Oracle EBS experience.
 
-This GitHub showcases projects developed under:
+This GitHub is home to projects developed under my nonprofit initiative: **SoulMindFusion (SMF)**. The mission is to align artificial intelligence with human clarity, mental energy preservation, and fairness.
 
-**SMAI-Core** – AI fairness, bias detection, explainability (AIF360, SHAP, YAML governance)
+Key Repositories:
 
-**SMAI-Conscious** – A mindful AI assistant for promoting silence, ethical reflection, and mental energy conservation
+**smf-smai-core-projects** → AI Fairness, Bias Mitigation, Governance Tools
 
-These are more than technical experiments — they represent a bridge between responsible AI development and human-centered alignment. Explore the repositories to see AI being shaped by ethics, purpose, and transparency.
+**smai-conscious-gpt** → Mindful GPT agent for ethical clarity and decision nudges
+
+“AI is not just a tool — it’s a mirror. Through SMF, I aim to build systems that reflect conscious intelligence.”
+
+For full structure: SMF → SMAI → (Core + Conscious) → Ethical & Mindful AI.
 
 ---
 
