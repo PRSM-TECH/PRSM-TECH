@@ -2,9 +2,9 @@
 
 This GitHub showcases projects developed under:
 
-SMAI-Core – AI fairness, bias detection, explainability (AIF360, SHAP, YAML governance)
+**SMAI-Core** – AI fairness, bias detection, explainability (AIF360, SHAP, YAML governance)
 
-SMAI-Conscious – A mindful AI assistant for promoting silence, ethical reflection, and mental energy conservation
+**SMAI-Conscious** – A mindful AI assistant for promoting silence, ethical reflection, and mental energy conservation
 
 These are more than technical experiments — they represent a bridge between responsible AI development and human-centered alignment. Explore the repositories to see AI being shaped by ethics, purpose, and transparency.
 
